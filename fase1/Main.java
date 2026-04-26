@@ -1,4 +1,3 @@
-// Fase 1 - Kode Mandiri (belum disempurnakan)
 import java.util.Scanner;
 
 public class Main {
@@ -8,7 +7,7 @@ public class Main {
         int pilihan = 0;
 
         System.out.println("============================");
-        System.out.println("   APLIKASI LAUNDRY SEDERHANA");
+        System.out.println(" APLIKASI LAUNDRY SEDERHANA");
         System.out.println("============================");
 
         while (pilihan != 5) {

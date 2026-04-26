@@ -1,4 +1,3 @@
-// Fase 1 - Kode Mandiri (belum disempurnakan)
 public class Pelanggan {
     String nama;
     String nomorTelepon;

@@ -1,4 +1,3 @@
-// Fase 1 - Kode Mandiri (belum disempurnakan)
 import java.util.ArrayList;
 
 public class KasirLaundry {

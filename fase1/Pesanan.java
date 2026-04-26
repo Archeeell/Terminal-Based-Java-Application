@@ -1,4 +1,3 @@
-// Fase 1 - Kode Mandiri (belum disempurnakan)
 public class Pesanan {
     String idPesanan;
     Pelanggan pelanggan;
