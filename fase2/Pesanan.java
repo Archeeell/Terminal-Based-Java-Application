@@ -9,7 +9,7 @@ public class Pesanan {
     private String status;
     private final double totalBiaya;
 
-    // Status yang valid
+    // status yang valid
     public static final String STATUS_MASUK       = "Masuk";
     public static final String STATUS_DICUCI      = "Dicuci";
     public static final String STATUS_DISETRIKA   = "Disetrika";

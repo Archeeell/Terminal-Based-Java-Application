@@ -40,7 +40,7 @@ public class KasirLaundry {
         }
     }
 
-    // cari pesanan by ID
+    // cari pesanan by id
     public Pesanan cariPesanan(String idPesanan) {
         for (int i = 0; i < daftarPesanan.size(); i++) {
             if (daftarPesanan.get(i).getIdPesanan() == idPesanan) {

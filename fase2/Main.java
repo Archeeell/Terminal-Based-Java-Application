@@ -47,8 +47,6 @@ public class Main {
         scanner.close();
     }
 
-    // ===== METHOD PEMBANTU =====
-
     private static void tampilHeader() {
         System.out.println("╔══════════════════════════════════╗");
         System.out.println("║     SISTEM MANAJEMEN LAUNDRY     ║");
@@ -156,9 +154,7 @@ public class Main {
         kasir.tampilPesananByStatus(status);
     }
 
-    /**
-     * Membaca input angka bulat dengan penanganan error.
-     */
+    // Membaca input angka bulat dengan penanganan error.
     private static int bacaAngka(Scanner scanner, String prompt) {
         System.out.print(prompt);
         try {
@@ -171,9 +167,7 @@ public class Main {
         }
     }
 
-    /**
-     * Membaca input angka desimal dengan penanganan error.
-     */
+    // Membaca input angka desimal dengan penanganan error.
     private static double bacaDesimal(Scanner scanner, String prompt) {
         System.out.print(prompt);
         try {
